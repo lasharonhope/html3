@@ -29,4 +29,9 @@ article{
 	float: left;
 	margin: 20px;
 }
-
+aside{
+	width: 1580px;
+	height: 940px;
+	float:left;
+	background-color: beige;
+}
