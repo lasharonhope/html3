@@ -16,3 +16,11 @@ header{
 		height: 940px;
 		margin: 10px 10px 0px 10px;
 		background-color: red;
+		}
+article{
+	width: 380px;
+	height: 260px;
+	background-color: grey;
+	float: left;
+	margin: 20px;
+}
